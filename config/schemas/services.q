@@ -1,0 +1,14 @@
+SERVICES:([
+    name:`symbol$()
+    ]
+    project:`symbol$();
+    cluster:`symbol$();
+    service:`symbol$();
+    node:`int$();
+    host:`symbol$();
+    port:`long$();
+    encrypt:`symbol$();
+    health:`boolean$();
+    lock:`boolean$();
+    inittime:`timestamp$()
+    );
